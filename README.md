@@ -7,7 +7,7 @@ cd .. = vuelve atrás en la jerarquía de carpetas
 cd - = te hace alternar entre la página actual y la previa
 ```
 
-##Formato del CP y el MV
+## Formato del CP y el MV
 ```shell
 Tanto para copiar "CP" como para mover "mv" el formato tiene que ser el siguiente:
 cp /ubicación/del/archivo.txt ../../ubicación/donde/queremos/guardar.txt
